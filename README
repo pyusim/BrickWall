@@ -1,0 +1,8 @@
+Solves the problem described in Brick Wall Question.docx
+
+do make to build
+execute "./brickWallSolutions" to get answer for 32x10
+execute "./brickWallSolutions C R" to get answer for CxR
+
+do make test to creat test build
+execute "./brickWallSolutions" to run all test cases
